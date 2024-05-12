@@ -3,7 +3,8 @@
 
 - 🌱 I’m currently learning **Full stack web developer**
 
-- Contac me: **cristiancalvo80@gmail.com**
+- 📫 How to reach me: **cristiancalvo80@gmail.com**
+- 🌴 Connect with me on LinkedIn: [Cristian Calvo](https://www.linkedin.com/in/cristian-calvo80)
 
 
 
