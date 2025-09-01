@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Full stack web developer**
 - 📫 How to reach me: **cristiancalvo80@gmail.com**
 - 🌴 Connect with me on LinkedIn: [Cristian Calvo](https://www.linkedin.com/in/cristian-calvo80)
-- 🌍 Visit my website: [https://crigca.github.io/](https://crigca.github.io/)
+- 🌍 Visit my website: https://cristian-calvo.netlify.app/resume
 
 
 
